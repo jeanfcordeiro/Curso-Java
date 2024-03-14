@@ -1,4 +1,4 @@
-package exercicio_udemy;
+package estrutura_sequencial;
 
 import java.util.Scanner;
 
